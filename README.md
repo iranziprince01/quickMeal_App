@@ -32,7 +32,7 @@ To run the Quick Meal app locally, follow these steps:
    ```
 3. Open the `index.html` file in your preferred web browser.
    
-   OR just search this link directly in your browser:<a href="https://quickmeal-app.netlify.app/" target="_blank">quickMeal_App.
+   OR just search this link directly in your browser:[quickMeal](https://quickmeal-app.netlify.app/){:target="_blank"}.
 
 ## API Integration
 The app fetches data from the Themealdb API to provide users with a diverse selection of meals and recipes. The API endpoints used include:
@@ -49,5 +49,5 @@ Contributions to the quickMeal app are welcomed! If you encounter any issues whi
 This project is licensed under the [MIT License](https://mit-license.org/)
 
 ## Conclusion
-Enjoy exploring new meals and recipes with Quick Meal! If you have any questions or feedback, please don't hesitate to contact us at
+Enjoy exploring new meals and recipes with quickMeal_App! If you have any questions or feedback, please don't hesitate to contact me at
 p.iranzi@alustudent.com.
