@@ -37,12 +37,12 @@ To run the quickMeal_App locally, follow these steps:
 ## How it works
 
 <ol>
-   <li>Navigate to the following link: https://quickmeal-app.netlify.app/</li>
-   <li>Go to the Search bar/ search box</li>
-   <li>Enter any ingredient name of your choice</li>
+   <li>Navigate to the following link: https://quickmeal-app.netlify.app/.</li>
+   <li>Go to the Search bar/ search box.</li>
+   <li>Enter any ingredient name of your choice.</li>
    <li>The results will come containing all meals made of that ingredient. Then Click on the exact meal you want to prepare.</li>
-   <li>Read the on how instructions to DIY and watch video tutorial to see how it is done.</li>
-   <li>If you encounter the error, try another ingredient</li>
+   <li>Read the on-how instructions to DIY and watch the video tutorial to see how it is done.</li>
+   <li>If you encounter the error, try another ingredient.</li>
    <li>You are now a DIY meal expert!</li>
 </ol>
 
