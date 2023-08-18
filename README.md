@@ -18,7 +18,7 @@ quickMeal is a web application that allows users to explore a variety of meals a
 
 ## Getting Started
 
-To run the Quick Meal app locally, follow these steps:
+To run the quickMeal_App locally, follow these steps:
 
 1. Clone this repository:
 
@@ -33,6 +33,18 @@ To run the Quick Meal app locally, follow these steps:
 3. Open the `index.html` file in your preferred web browser.
    
    OR just search this link directly from your browser: [quickMeal_App](https://quickmeal-app.netlify.app/).
+
+## How it works
+
+<ol>
+   <li>Navigate to the following link: https://quickmeal-app.netlify.app/</li>
+   <li>Go to the Search bar/ search box</li>
+   <li>Enter any ingredient name of your choice</li>
+   <li>The results will come containing all meals made of that ingredient. Then Click on the exact meal you want to prepare.</li>
+   <li>Read the on how instructions to DIY and watch video tutorial to see how it is done.</li>
+   <li>If you encounter the error, try another ingredient</li>
+   <li>You are now a DIY meal expert!</li>
+</ol>
 
 ## API Integration
 The app fetches data from the Themealdb API to provide users with a diverse selection of meals and recipes. The API endpoints used include:
