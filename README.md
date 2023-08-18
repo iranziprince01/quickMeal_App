@@ -1,10 +1,10 @@
 # quickMeal_App
 
-![image](https://github.com/iranziprince01/quickMeal_App/assets/116654088/9407ff8f-4da8-4580-9ac5-f96554795838)
-
 ## Introduction
 
 quickMeal is a web application that allows users to explore a variety of meals and recipes from around the world by just typing ingredient name in the search box. This app is designed to provide a seamless and enjoyable experience for users who are looking for meal inspiration or new recipes to try out.
+
+![image](https://github.com/iranziprince01/quickMeal_App/assets/116654088/9407ff8f-4da8-4580-9ac5-f96554795838)
 
 ## Features
 
@@ -25,7 +25,7 @@ To run the Quick Meal app locally, follow these steps:
    ```sh
    git clone https://github.com/iranziprince01/quickMeal_App.git
    ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
    ```ssh
    cd quickMeal_App
