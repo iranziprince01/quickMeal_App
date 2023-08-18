@@ -29,7 +29,7 @@ To run the Quick Meal app locally, follow these steps:
 
    ```cd quickMeal_App```
    
-   OR just search this link directly in you browser:[a href=""]
+   OR just search this link directly in you browser:(quickMeal-app)[a href="https://quickmeal-app.netlify.app/"]
 
 -> Search any meal from the API and display the search results on the frontend (as I type the search results should update, just like Google does for suggestions).
 
