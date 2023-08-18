@@ -36,7 +36,7 @@ To run the quickMeal_App locally, follow these steps:
 
 ## How it works
 
-Consult this [Demo Video](https://www.loom.com/share/15d854a4a2f4453ea04e204abfa7b4e5?sid=2a76eee1-3131-463e-9ff1-a96074b480dc) on how this App works.
+Consult this [Demo Video](https://www.youtube.com/watch?v=_X09ZetpdxU) on how this App works.
 
 <ol>
    <li>Navigate to the following link: https://quickmeal-app.netlify.app/.</li>
