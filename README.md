@@ -27,15 +27,27 @@ To run the Quick Meal app locally, follow these steps:
    ```
 2.Navigate to the project directory:
 
-   ```cd quickMeal_App```
+   ```ssh
+   cd quickMeal_App
+   ```
+3. Open the `index.html` file in your preferred web browser.
    
-   OR just search this link directly in you browser:(quickMeal-app)[a href="https://quickmeal-app.netlify.app/"]
+   OR just search this link directly in your browser:[quickMeal-app](https://quickmeal-app.netlify.app/).
 
--> Search any meal from the API and display the search results on the frontend (as I type the search results should update, just like Google does for suggestions).
+## API Integration
+The app fetches data from the Themealdb API to provide users with a diverse selection of meals and recipes. The API endpoints used include:
 
-![image](https://github.com/iranziprince01/quickMeal_App/assets/116654088/5d965352-2678-4cdd-9568-5248c8a76574)
+<ul>
+   <li>`https://www.themealdb.com/api/json/v1/1/search.php?s=mealName` (for searching meals by name)</li>
+   <li>`https://www.themealdb.com/api/json/v1/1/random.php` (for fetching a random meal)</li>
+</ul>
 
-![image](https://github.com/iranziprince01/quickMeal_App/assets/116654088/211c7605-e094-4745-ab1d-fe810536a904)
+## Contributing
+Contributions to the quickMeal app are welcomed! If you encounter any issues while accessing the app, have suggestions for improvements, or want to add new features, feel free to open a pull request.
 
+## License
+This project is licensed under the [MIT License](https://mit-license.org/)
 
-
+## Conclusion
+Enjoy exploring new meals and recipes with Quick Meal! If you have any questions or feedback, please don't hesitate to contact us at
+p.iranzi@alustudent.com.
